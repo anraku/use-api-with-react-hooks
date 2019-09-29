@@ -1,0 +1,6 @@
+{
+  "books": [
+    {"id": 1, "title": "Clean Architecture 達人に学ぶソフトウェアの構造と設計", "author":"Robert C.Martin", "rating": 4},
+    {"id": 2, "title": "エリック・エヴァンスのドメイン駆動設計", "author": "Eric Ebans", "rating": 4}
+  ]
+}
